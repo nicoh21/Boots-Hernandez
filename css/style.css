@@ -1,0 +1,55 @@
+
+body{
+    color: white;
+    background-image: url(../img/comarca-img.jpeg);
+    background-size: cover;
+}
+
+
+.bienve{
+    padding: 19rem 0rem;
+
+}
+
+
+.footer{
+    display: flex;
+    justify-content: space-around;
+    
+
+}
+
+.a:hover{
+    background-color: rgba(0, 0, 0, 0.601);
+    
+}
+
+.aso:hover{
+    background-color: rgba(153, 205, 50, 0.295);
+    color: black;
+}
+
+.acerca{
+    padding: 12rem 0rem;
+
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.divform{
+    padding: 5rem 0rem;
+}
+
+.mainGal{
+    width: 70%;
+    
+    
+    
+}
